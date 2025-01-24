@@ -1,1 +1,8 @@
-# An-lise-de-Sentimentos-com-Language-Studio-no-Azure-AI2
+# Análise de Sentimentos com Language Studio no Azure AI
+
+
+
+
+
+
+
