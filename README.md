@@ -26,7 +26,14 @@ O Serviço de Linguagem de IA do Azure inclui funcionalidades de análise de tex
    - Nome do recurso: selecione o recurso de Serviço de Linguagem que você acabou de criar
 4. Selecione Concluído.
 
-
+### Analisar as avaliações no Estúdio de Idiomas
+1. Em um navegador da Web, navegue até Estúdio de Idiomas em https://language.cognitive.azure.com
+2. Na página Bem-vindo(a) ao Estúdio de Idiomas, selecione a guia Classificar texto e, em seguida, selecione o bloco Analisar sentimentos e extrair opiniões
+3. Em Selecionar o idioma do texto, selecione Inglês
+4. Em Selecione seu recurso do Azure, selecione seu recurso
+5. Em Insira seu próprio texto, carregue um arquivo ou use um de nossos exemplos de texto, copie e cole a seguinte avaliação:
+6.      Tired hotel with poor service The Royal Hotel, London, United Kingdom     5/6/2018 This is an old hotel (has been around since 1950's) and the room furnishings are average - becoming a bit old now and require changing. The internet didn't work and had to come to one of their office rooms to check in for my flight home. The website says it's close to the British Museum, but it's too far to walk.
+     
 
 
 
