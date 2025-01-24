@@ -16,11 +16,15 @@ O Serviço de Linguagem de IA do Azure inclui funcionalidades de análise de tex
 - Selecione Revisar + criar e
 - Criar e aguarde a conclusão da implantação.
 
-Em outra guia do navegador, navegue até Vision Studio
-Entre com sua conta e verifique se você está usando o mesmo diretório que aquele em que criou o recurso dos Serviços de IA do Azure
-Na página inicial do Vision Studio, selecione Exibir todos os recursos
-Na página Selecionar um recurso para trabalhar, clique no recurso criado. Marque a caixa do nome do recurso e selecione Selecionar como recurso padrão
-Feche a página de configurações selecionando o “x” na parte superior direita da tela.
+### Configure seu recurso no Estúdio de Linguagem de IA do Azure
+1. Em outra guia do navegador, abra o Estúdio de Idiomas em https://language.cognitive.azure.com
+2. Selecionar o recurso de Linguagem do Azure criado
+3. Faça as seguintes configurações:
+   - Diretório do Azure: diretório que você está usando
+   - Assinatura do Azure: Selecione a assinatura que está usando
+   - Tipo de recurso: linguagem
+   - Nome do recurso: selecione o recurso de Serviço de Linguagem que você acabou de criar
+4. Selecione Concluído.
 
 
 
