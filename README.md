@@ -33,8 +33,11 @@ O Serviço de Linguagem de IA do Azure inclui funcionalidades de análise de tex
 4. Em Selecione seu recurso do Azure, selecione seu recurso
 5. Em Insira seu próprio texto, carregue um arquivo ou use um de nossos exemplos de texto, copie e cole a seguinte avaliação:
    ![image](https://github.com/user-attachments/assets/fa0a5473-1e75-4c87-83c3-82d1f65d1a73)
-
+6. Marque a caixa para reconhecer que a demonstração incorrerá em uso e poderá ter custos e, em seguida, selecione Executar
+7. Examine a saída
+8. Observe que o documento é analisado quanto ao sentimento, bem como cada sentença.
      
+![image](https://github.com/user-attachments/assets/a1338bdf-2c52-4bcd-a50a-2ef0dd7f7243)
 
 
 
