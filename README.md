@@ -32,10 +32,7 @@ O Serviço de Linguagem de IA do Azure inclui funcionalidades de análise de tex
 3. Em Selecionar o idioma do texto, selecione Inglês
 4. Em Selecione seu recurso do Azure, selecione seu recurso
 5. Em Insira seu próprio texto, carregue um arquivo ou use um de nossos exemplos de texto, copie e cole a seguinte avaliação:
-   "Tired hotel with poor service 
-    The Royal Hotel, London, United Kingdom
-    5/6/2018
-    This is an old hotel (has been around since 1950's) and the room furnishings are average - becoming a bit old now and require changing. The internet didn't work and had to come to one of their office rooms to check in for my flight home. The website says it's close to the British Museum, but it's too far to walk."
+   ![image](https://github.com/user-attachments/assets/fa0a5473-1e75-4c87-83c3-82d1f65d1a73)
 
      
 
